@@ -4,3 +4,5 @@ A corona discharge generator that utilizes a Cockroft-Walton multiplier with a v
 # What is corona discharge?
 Corona discharge is a purple glowing electrical discharge that occurs when high voltage is supplied to a conductor, which ionizes the surrounding air. A byproduct of this is ozone, or O3. This is actually how ozone generators function as well. Ozone is not good for your health although it is used to sterilize. It's a good idea to operate this by a window, with the built-in fan on while also not keeping it on for too long.
 
+# Why did I design this?
+Corona discharge was always super cool to me, when watching people like StyroPyro and Electroboom. Over time, I ended up just watching random informative videos about high voltage just for fun and I realized that I could build one myself. Plus, I don't have the risk of dying from this machine, because of the extremely low current! 
