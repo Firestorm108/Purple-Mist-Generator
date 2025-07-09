@@ -20,5 +20,10 @@ Quick drawing of what I want the CAD to look like.
 Basically its a sort of rack with all 5 PCBs stacked in there, with the fan on top and electrode pointing outwards.
 The electrode is made of thin copper sheet and very pointy to help initiate the discharge.
 
+I also started on uploading models of the components for the cad!
+
+![CleanShot 2025-07-08 at 23 14 59](https://github.com/user-attachments/assets/1d496eea-6694-4b00-8067-f27cb7e18080)
+
+
 Total Time Spent: 7 Hours
 
