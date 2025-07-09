@@ -14,4 +14,11 @@ After that, I cleaned up the routing and added some silkscreen.
 
 After that, I added parts such as a fan due to the high ozone generation as a byproduct of corona discharge. This happens because the oxygen molecules literally get ripped apart and bind together to create O3, or ozone. Which is toxic to humans and can cause lung disease, so it's a good idea to blow it away from you into a window.
 
+![CleanShot 2025-07-08 at 22 48 27](https://github.com/user-attachments/assets/86a3bd39-84aa-430d-9ed9-298f404d4b19)
+Quick drawing of what I want the CAD to look like.
+
+Basically its a sort of rack with all 5 PCBs stacked in there, with the fan on top and electrode pointing outwards.
+The electrode is made of thin copper sheet and very pointy to help initiate the discharge.
+
 Total Time Spent: 7 Hours
+
