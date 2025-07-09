@@ -14,4 +14,4 @@ After that, I cleaned up the routing and added some silkscreen.
 
 After that, I added parts such as a fan due to the high ozone generation as a byproduct of corona discharge. This happens because the oxygen molecules literally get ripped apart and bind together to create O3, or ozone. Which is toxic to humans and can cause lung disease, so it's a good idea to blow it away from you into a window.
 
-Total Time Spent: 8 Hours
+Total Time Spent: 7 Hours
