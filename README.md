@@ -6,3 +6,5 @@ Corona discharge is a purple glowing electrical discharge that occurs when high 
 
 # Why did I design this?
 Corona discharge was always super cool to me, when watching people like StyroPyro and Electroboom. Over time, I ended up just watching random informative videos about high voltage just for fun and I realized that I could build one myself. Plus, I don't have the risk of dying from this machine, because of the extremely low current! 
+
+![image](https://github.com/user-attachments/assets/9f3bd439-8dbb-49a2-9fb6-765e33091b0e)
