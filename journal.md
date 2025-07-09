@@ -11,3 +11,5 @@ After that, I put the components on the PCB. I spaced them out a lot over a 99mm
 After that, I cleaned up the routing and added some silkscreen.
 
 ![CleanShot 2025-07-08 at 22 08 06](https://github.com/user-attachments/assets/6fb3a1f7-a3db-4c3e-8ce1-2e5c4ea186ec)
+
+Total Time Spent: 6 Hours
