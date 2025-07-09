@@ -1,3 +1,11 @@
+---
+title: "Purple Mist Machine"
+author: "Sidd"
+description: "A corona discharge generator for cool visuals using a 20 stage cockroft walton mulitplier!"
+created_at: "2024-7-08"
+---
+
+
 <h1>July 8th</h1>
 
 First, I thought of the parts I would need and researched the circuit overall. I watched lots of youtube videos and read lots of things. I ended up going with a 6V DC PSU because the transformer that you'll hear about in a second was originally powered by 4 AA batteries in series, a 6V input and 2KV output transformer that I salvaged from a goodwill UVC wand for the overall input power. I went with ceramic capacitors rated for 5KV and a capacitance of 1nF, diodes rated for 5KV and 200mA. I also went with decently thick wire. After that, I started work on the schematic. It took me a while to really get it down even though it doesn't look like a lot, and I'm pretty proud of my first real PCB that wasn't a breakout board. 
