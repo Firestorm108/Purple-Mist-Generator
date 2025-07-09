@@ -52,4 +52,7 @@ Also got a nice render!
 
 ![Assembly_2025-Jul-09_07-08-52PM-000_CustomizedView5219160649](https://github.com/user-attachments/assets/666001c1-4bc0-414a-be9f-853b5bd51981)
 
+Finally, I finalized the README, BOM, uploaded the files, and got ready for submission!
+Super excited to build this, high voltage is really interesting.
 
+Total Time Spent: 5 Hours
