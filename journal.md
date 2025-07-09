@@ -47,3 +47,9 @@ The entire morning I grinded out the CAD! I'm loving the look, it'll be printing
 ![CleanShot 2025-07-09 at 12 01 25](https://github.com/user-attachments/assets/80b11388-5154-4d66-bb90-de9c6d553759)
 
 ![CleanShot 2025-07-09 at 12 04 38](https://github.com/user-attachments/assets/5a27d76d-f9f5-4a03-8fb1-108e4071dbd5)
+
+Also got a nice render!
+
+![Assembly_2025-Jul-09_07-08-52PM-000_CustomizedView5219160649](https://github.com/user-attachments/assets/666001c1-4bc0-414a-be9f-853b5bd51981)
+
+
