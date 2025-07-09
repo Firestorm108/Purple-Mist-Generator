@@ -7,3 +7,7 @@ First, I thought of the parts I would need and researched the circuit overall. I
 After that, I put the components on the PCB. I spaced them out a lot over a 99mmx99mm board because it needs a ton of insulation to not arc. Also, it'll stay cheap this way with my modular design where I can stack PCBs together, which will be the first time using all FIVE PCBs! Definitely the hardest part about all this was wiring the PCBs in a single layer design. FR4 is not able to handle this high of a voltage between layers and it would for sure arc, so I had to make it single layer. This also means it could be milled by a CNC mill which is pretty cool. The PCB isn't done yet of course, with polishing and silkscreen needing to be added.
 
 ![CleanShot 2025-07-08 at 20 54 53](https://github.com/user-attachments/assets/6879fc4b-f74e-403c-be14-7488b8189e1f)
+
+After that, I cleaned up the routing and added some silkscreen.
+
+![CleanShot 2025-07-08 at 22 08 06](https://github.com/user-attachments/assets/6fb3a1f7-a3db-4c3e-8ce1-2e5c4ea186ec)
