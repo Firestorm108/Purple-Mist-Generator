@@ -24,6 +24,9 @@ I also started on uploading models of the components for the cad!
 
 ![CleanShot 2025-07-08 at 23 14 59](https://github.com/user-attachments/assets/1d496eea-6694-4b00-8067-f27cb7e18080)
 
+Then I made a wiring diagram, pretty simple since the main stuff is in the PCB. Mostly for safety reasons (ozone and switch) and power input.
+
+![CleanShot 2025-07-08 at 23 23 44](https://github.com/user-attachments/assets/7502c50c-2f4e-449f-ae51-2fd9abaefaa3)
 
 Total Time Spent: 7 Hours
 
