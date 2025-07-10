@@ -37,4 +37,4 @@ Corona discharge was always super cool to me, when watching people like StyroPyr
 | M5 20mm Screws                            | $0    | Already Owned                                                                         |
 | Rubber Feet                               | $0    | Already Owned                                                                         |
 | JLCPCB PCB                                | $25    | —                                                                                      |
-| **Total**                                 | **$74** |                                                                                        |
+| **Total**                                 | **$93** |                                                                                        |
