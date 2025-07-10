@@ -36,5 +36,5 @@ Corona discharge was always super cool to me, when watching people like StyroPyr
 | M3 Standoffs 10mm                         | $3    | [AliExpress](https://www.aliexpress.us/item/3256805275813321.html)                    |
 | M5 20mm Screws                            | $0    | Already Owned                                                                         |
 | Rubber Feet                               | $0    | Already Owned                                                                         |
-| JLCPCB PCB                                | $6    | —                                                                                      |
+| JLCPCB PCB                                | $25    | —                                                                                      |
 | **Total**                                 | **$74** |                                                                                        |
