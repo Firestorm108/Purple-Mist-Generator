@@ -43,7 +43,7 @@ Total Time Spent: 7 Hours
 
 <h1>July 9th</h1>
 
-The entire morning I grinded out the CAD! I'm loving the look, it'll be printing with glass fiber reinforced PETG due to high insulation needs. There are 5 layers with 4 stages each. The control area on the top has 2 switches (one for overall power, one for fan) due to the fan actually decreasing the amount of corona discharge. However, keeping the fan is crucial because ozone is still very damaging so it will only be turned off for testing purposes. The electrode is also in front of the fan, extremely sharp in order to focus the electric field. I also updated the wiring diagram to have the second switch in.
+The entire morning I grinded out the CAD! I'm loving the look, it'll be printing with PETG due to high insulation needs. There are 5 layers with 4 stages each. The control area on the top has 2 switches (one for overall power, one for fan) due to the fan actually decreasing the amount of corona discharge. However, keeping the fan is crucial because ozone is still very damaging so it will only be turned off for testing purposes. The electrode is also in front of the fan, extremely sharp in order to focus the electric field. I also updated the wiring diagram to have the second switch in.
 
 ![CleanShot 2025-07-09 at 12 01 25](https://github.com/user-attachments/assets/80b11388-5154-4d66-bb90-de9c6d553759)
 
