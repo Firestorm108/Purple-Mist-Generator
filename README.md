@@ -31,7 +31,7 @@ Corona discharge was always super cool to me, when watching people like StyroPyr
 | Insulated Cable                           | $5    | [AliExpress](https://www.aliexpress.us/item/3256806379805687.html)                    |
 | 4KV 10nF Ceramic Capacitors (50pcs)       | $20   | [AliExpress](https://www.aliexpress.us/item/3256806874066306.html)                    |
 | 5KV 200mA Rectifier Diodes                | $17   | [DigiKey](https://www.digikey.com/en/products/detail/good-ark-semiconductor/GSR5000/21073622) |
-| Glass Fiber Reinforced PETG Filament     | $0    | Already Owned                                                                         |
+| PETG Filament     | $0    | Already Owned                                                                         |
 | M3 Screws 8mm                             | $2    | [AliExpress](https://www.aliexpress.us/item/3256806983352954.html)                    |
 | M3 Standoffs 10mm                         | $3    | [AliExpress](https://www.aliexpress.us/item/3256805275813321.html)                    |
 | M5 20mm Screws                            | $0    | Already Owned                                                                         |
