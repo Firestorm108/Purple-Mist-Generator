@@ -1,4 +1,5 @@
-# HACKCLUB HAS NO LIABILITY FOR ANY INJURIES INCLUDING DEATH RELATED TO THIS PROJECT 
+# This project is not dangerous, however HC has asked me to say that they are not liable for any injuries related to this project.
+Although it generates high voltage, high voltage is nothing without enough current. The amount of current that comes out of this is in the MICROAMPS range, not even one milliamp! It's not dangeorus and **especially** not lethal.
 
 
 # The Purple Mist Machine
